@@ -1,0 +1,4 @@
+0 Coke 2
+0 Sprite 3
+1 shinRamen 4
+2 Chicken 6
